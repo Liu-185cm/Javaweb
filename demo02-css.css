@@ -1,0 +1,31 @@
+body{
+    background-color: aqua;
+}
+
+#container{
+    background-color: violet;
+}
+
+#fruitlist{
+    background-color:yellowgreen;
+    width:80%;
+    margin-left: 10%;
+    margin-top: 20%;
+    float: left;
+}
+
+#f1{
+    width:100%;
+    line-height: 34px;
+}
+
+#f1,#f1 tr,#f1 th,#f1 td{
+    border: 1px solid;
+    border-color: azure;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+.w1{
+    width:20%;
+}
